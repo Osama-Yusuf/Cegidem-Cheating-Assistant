@@ -18,8 +18,8 @@
 #### 6- Click the "Submit" button to extract the text from the image and generate a response using the OpenAI GPT-3 API.
 
 ## API Documentation
-### OCR API documentation: [OCR.space](https://ocr.space/ocrapi)
-### OpenAI GPT-3 API documentation: [OpenAI](https://beta.openai.com/docs/api-reference/introduction)
+#### OCR API documentation: [OCR.space](https://ocr.space/ocrapi)
+#### OpenAI GPT-3 API documentation: [OpenAI](https://beta.openai.com/docs/api-reference/introduction)
 
 ## License
-### This project is licensed under the MIT License. See the LICENSE file for details.
+#### This project is licensed under the MIT License. See the LICENSE file for details.

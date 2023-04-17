@@ -5,17 +5,17 @@
 ### To use this application, you will need the following:
 
 #### a- An API key for the OCR API from [OCR.space](https://ocr.space/ocrapi).
-#### b- An API key for the OpenAI GPT-3 API. You can obtain a key by signing up for the OpenAI API.
+#### b- An API key for the OpenAI GPT-3.5 API. [OpenAI](https://platform.openai.com/account/api-keys). 
 
 ## Getting Started
 ### To use this application, follow these steps:
 
-#### 1- Clone the repository to your local machine.
+#### 1- Clone the repository to your local machine and go to the repo dir.
 #### 2- Replace the YOUR_API_KEY placeholder in the script.js file with your API key for the OCR API.
 #### 3- Replace the YOUR_OPENAI_API_KEY placeholder in the script.js file with your API key for the OpenAI GPT-3 API.
-#### 4- Open the index.html file in your web browser.
-#### 5- Select an image file using the file input field.
-#### 6- Click the "Submit" button to extract the text from the image and generate a response using the OpenAI GPT-3 API.
+#### 4- Install the dependencies using `npm install`.
+#### 5- Bundle the code using webpack using `npx webpack`.
+#### 6- Open the index.html file in your browser.
 
 ## API Documentation
 #### OCR API documentation: [OCR.space](https://ocr.space/ocrapi)

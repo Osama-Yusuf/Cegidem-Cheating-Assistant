@@ -4,9 +4,9 @@ const imageInput = document.getElementById("image-input");
 const submitButton = document.getElementById("submit-button");
 const output = document.getElementById("output");
 
-const apiKey = "<Your_OCR_API-KEY_HERE>";
+const apiKey = "<YOUR_API_KEY>";
 const configuration = new Configuration({
-    apiKey: "<Your_OpenAI_API-KEY_HERE>",
+    apiKey: "<YOUR_OPENAI_API_KEY>",
 });
 
 const openai = new OpenAIApi(configuration);

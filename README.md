@@ -4,9 +4,8 @@
 ## Requirements
 ### To use this application, you will need the following:
 
-### An API key for the OCR API from [OCR.space](https://ocr.space/ocrapi).
-### An API key for the OpenAI GPT-3 API. You can obtain a key by signing up for the OpenAI API.
-### A modern web browser with support for HTML5 and JavaScript.
+#### a- An API key for the OCR API from [OCR.space](https://ocr.space/ocrapi).
+#### b- An API key for the OpenAI GPT-3 API. You can obtain a key by signing up for the OpenAI API.
 
 ## Getting Started
 ### To use this application, follow these steps:

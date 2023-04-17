@@ -1,4 +1,4 @@
-# Cegidem Cheating Assistant \
+# Cegidem Cheating Assistant 
 ## with the help of OCR & ChatGpt select the screenshot img from your local machine of the question, and then convert it to a txt then prompt it to ChatGpt and the answer will pop in seconds
 
 # Requirements

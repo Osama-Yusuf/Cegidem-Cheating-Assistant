@@ -1,4 +1,4 @@
-# Cegidem Cheating Assistant 
+# GPT OCR Scan
 ### By choosing the question's screenshot stored on your computer, you can use GPT-OCR-Scan to generate the answer within seconds.
 
 ## Requirements

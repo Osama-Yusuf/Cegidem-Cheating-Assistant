@@ -1,5 +1,5 @@
 # Cegidem Cheating Assistant 
-### with the help of OCR & ChatGpt select the screenshot img from your local machine of the question, and then convert it to a txt then prompt it to ChatGpt and the answer will pop in seconds
+### By choosing the question's screenshot stored on your computer, you can use GPT-OCR-Scan to generate the answer within seconds.
 
 ## Requirements
 ### To use this application, you will need the following:
